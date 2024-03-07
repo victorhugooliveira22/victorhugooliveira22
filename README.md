@@ -1,7 +1,8 @@
-### Olá! Eu su o Victorhugooliveira22
+### Olá! Eu su o Victor!
 
 - 🌐 Relações Internacionais- Unesp Franca
-- 📒 Atualmente trabalhando com Newscloud
+- 📒 Atualmente trabalhando com Newscloud e a coleta de notícia dos jornais BBC e Carta Capital
+- 🖥️ Estou aprendendo atualmente os pricipios e fundamentos básicos de códigos, progamação e análise de dados (python)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhugooliveira22&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugooliveira22&size_weight=0.5&count_weight=0.5&icons=true&theme=tokyonight)
